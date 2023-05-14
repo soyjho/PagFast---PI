@@ -27,7 +27,7 @@ sendo assim ele espera receber no seguinte formato:
                 
  no usuário ele também espera receber uma senha para realizar a autenticação: 
  
-                senha: secret
+                senha: 1237889
                 
 ## Funções disponíveis no entregável
 
