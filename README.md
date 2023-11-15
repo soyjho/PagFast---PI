@@ -40,7 +40,7 @@ sendo assim ele espera receber no seguinte formato:
 
               Front-End:
                       ADRIANO MOURA DOS SANTOS,
-                      JHONNY ALMEIDA REIS,
+                      JHONNY ALMEIDA,
                       JULIA FERNANDES FRANCISCO COELHO
         
               Back-End/Dados:
